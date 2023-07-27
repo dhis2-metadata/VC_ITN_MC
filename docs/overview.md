@@ -1,19 +1,17 @@
-# Sensory Function: Eye and Ear Care
+# Vector Control using Insecticide Treated Net
 
 ## Release note 
 
-- [Release note](#ncd-sf-release-note)
+- [Release note](#vc-mc-itn-release-note)
 
 ## Design
 
-- [Design](#ncd-sf-design)
+- [Design](#vc-mc-itn-design)
 
 ## Installation
 
-- [Installation guide](#ncd-sf-installation)
+- [Installation guide](#vc-mc-itn-installation)
 
 ## Metadata reference
 
-- [Version 1.0.2](https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.39/NCD_SF_COMPLETE_1.0.2_DHIS2.39.xlsx)
-- [Version 1.0.1](https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.39/NCD_SF_COMPLETE_1.0.1_DHIS2.39.xlsx)
-- [Version 1.0.0](https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.39/NCD_SF_COMPLETE_1.0.0_DHIS2.39.xlsx)
+- [Version 1.0.0](https://packages.dhis2.org/en/VC_MC_ITN/1.0.0/DHIS2.38/.xlsx)
