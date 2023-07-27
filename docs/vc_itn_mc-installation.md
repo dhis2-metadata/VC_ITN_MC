@@ -1,4 +1,4 @@
-# Electronic Immunization Registry Installation Guide { #imm-eir-installation }
+# Vector Control using Insecticide Treated Net Installation Guide { #vc-itn-mc-installation }
 
 You will have to follow the instructions in full for each separate package that you install.
 
@@ -111,15 +111,15 @@ First, you will have to use the *Sharing* functionality of DHIS2 to configure wh
 
 A metadata package usually contains several user groups:
 
-* VC-IRS Access
-* VC-IRS Admin
-* VC-IRS Data Capture
+* VC-ITN Access
+* VC-ITN Admin
+* VC-ITN Data Capture
 
 By default the following is assigned to these user groups
 
 | Object              | User Groups                             |                                                  |                                                     |
 |---------------------|-----------------------------------------|--------------------------------------------------|-----------------------------------------------------|
-|                     | VC-IRS Access                           | VC-IRS Admin                                     | VC-IRS Data Capture                                 |
+|                     | VC-ITN Access                           | VC-ITN Admin                                     | VC-ITN Data Capture                                 |
 | Tracked entity type | Metadata : can view <br> Data: can view | Metadata : can edit and view <br> Data: can view | Metadata : can view <br> Data: can capture and view |
 | Program             | Metadata : can view <br> Data: can view | Metadata : can edit and view <br> Data: can view | Metadata : can view <br> Data: can capture and view |
 | Program Stages      | Metadata : can view <br> Data: can view | Metadata : can edit and view <br> Data: can view | Metadata : can view <br> Data: can capture and view |
