@@ -1,4 +1,4 @@
-# Insecticide Treated Nets (ITN) { #ITN-campaigns}
+# Insecticide Treated Nets (ITN) { #ITN-campaigns }
 
 **Insecticide-treated nets (ITNs)** have emerged as the most widely utilized and effective vector control (VC) intervention, contributing significantly to the substantial reduction in malaria cases across Africa in recent decades. These nets are specially designed to fulfill two crucial functions:
 
@@ -112,38 +112,38 @@ The creation of a new event requires the selection of:
 - The VC-ITN Campaign - the ID of the campaign. By default the package includes some examples such as complete single years (2019 or 2020) for when a campaign is conducted in one specific year, or longer periods (2021-2022) for when the campaign is conducted across years. The ID can however be any identifier of the campaign, such as name, code, year, sequential numbers, or a combination of these.  
 - The ITN distribution area from the Organization Unit (OU) hierarchy (this is the location where the net was distributed)
 
-[New event](resources/imagess/VC_ITN_CAM_001.png)
+![New event](resources/imagess/VC_ITN_CAM_001.png)
 
 ### Basic Info 
 
-[Campaign’s end date](resources/imagess/VC_ITN_CAM_002.png)
+![Campaign’s end date](resources/imagess/VC_ITN_CAM_002.png)
 
 ### Bed Nets brand
 
-[Campaign’s main brand of ITN](resources/imagess/VC_ITN_CAM_003.png)
+![Campaign’s main brand of ITN](resources/imagess/VC_ITN_CAM_003.png)
 
 This section only includes the main brand of the ITNs distributed in the area. If several different brands are distributed in the same area, more DEs can be added to the section to capture the number of nets distributed of each brand.
 
 ### Population-level results
 
-[Population data](resources/imagess/VC_ITN_CAM_004.png)
+![Population data](resources/imagess/VC_ITN_CAM_004.png)
 
 This section includes two DEs to capture the number of people expected to live in the distribution area and the number of people registered during the pre-campaign registration. All fields are mandatory. 
 
 ### Household-level results
 
-[Households info](resources/imagess/VC_ITN_CAM_005.png)
+![Households info](resources/imagess/VC_ITN_CAM_005.png)
 
 This section includes three DE to capture the number of households expected to be present in the distribution area, the number of households registered during the pre-campaign registration and the number of households who received at least one net by the end of the campaign. 
 
 ### Bednet-level results
 
-[ITN distribution info](resources/imagess/VC_ITN_CAM_006.png)
+![ITN distribution info](resources/imagess/VC_ITN_CAM_006.png)
 
 This section includes two DEs to capture the number of bednets planned to be distributed and the number of bednets distributed in reality by the end of the campaign.
 ### Comments and Status
 
-[Final sections of the program](resources/imagess/VC_ITN_CAM_007.png)
+![Final sections of the program](resources/imagess/VC_ITN_CAM_007.png)
 
 ## Program Rules
 
@@ -156,7 +156,7 @@ The list of PI is available in the [Metadata Reference File](resources/ITN_MC_re
 
 The calculations in the screenshot below are visible directly from the event capture app and provide the key insights about the campaign under registration.
 
-[Key calculations](resources/imagess/VC_ITN_CAM_008.png)
+![Key calculations](resources/imagess/VC_ITN_CAM_008.png)
 
 ### Legends
 
@@ -188,7 +188,7 @@ The data set is designed to capture crucial information during the ITN distribut
 **In instances where countries or organizations already have population estimates stored within their DHIS2 instance, there is no requirement to install this particular data set**. Instead, they can utilize their existing estimates, eliminating the need for duplication.
 If multiple ITN brands are being distributed within a single distribution area, additional data elements can be incorporated to capture information specific to each brand. This allows for comprehensive tracking of different net brands throughout the campaign.
 
-[Microplanning information](resources/images/VC_ITN_MC_MICRO_001.png)
+![Microplanning information](resources/images/VC_ITN_MC_MICRO_001.png)
 
 ## Data set VC-ITN-MC - Daily summary form
 
@@ -196,11 +196,11 @@ This data set is split in two sections: **The first should be completed during h
 
 The first section (“Registration”) should be completed with information pertaining to the households and population present in the distribution area being registered. This involves capturing specific details such as the number of individuals, the count of available sleeping spaces, and the composition of households based on different sizes (e.g., 1-2 people, 3-4 people, etc.). Additionally, the data set should include the number of ITNs found among the registered population.
 
-[Pre-campaign registration info](resources/images/VC_ITN_MC_MICRO_002.png)
+![Pre-campaign registration info](resources/images/VC_ITN_MC_MICRO_002.png)
 
 The number of ITNs allocated to the registered population is typically calculated using algorithms specific to each country. These algorithms aid in bednet quantification, ensuring an appropriate allocation of ITNs based on factors such as population size, household composition, and other relevant considerations. The allocated nets will therefore represent the number of nets that the registered population should theoretically have based on the household composition and the number of people per net as per national guidelines. 
 
-[Post-campaign nets distribution](resources/images/VC_ITN_MC_MICRO_003.png)
+![Post-campaign nets distribution](resources/images/VC_ITN_MC_MICRO_003.png)
 
 The distribution section should be completed as ITN is distributed. It contains the following data elements:
 - ITNs prepositioned: ITNs sent from the central level to the distribution area on that day.
@@ -214,7 +214,7 @@ The distribution section should be completed as ITN is distributed. It contains 
 
 The diagram below explains the flow of ITNs to illustrate the meaning of the different data elements. 
 
-[Net distribution diagram](resources/images/VC_ITN_MC_MICRO_004.png)
+![Net distribution diagram](resources/images/VC_ITN_MC_MICRO_004.png)
 
 ## Indicators
 
@@ -234,7 +234,7 @@ This module contains three legends:
 - **ITN- People per net**: to highlight places where the number of people per net is >1.8 in red and those where the number of people per net is ≤ 1.8  in green
 - **VC-ITN-MC - Performance (0-80, 80-95, 95+)**: to highlight progress. For example, to mark whether the proportion of ITN distributed is approaching those initially allocated or still far. The category ranges (0-80, 80-95, 95+) can be adjusted based on country targets.
 - **VC-ITN-MC - Variance**: to highlight when two indicator values are different (red). For example, to highlight the difference between the estimated ITN remaining at the end of the day and the reported ITN remaining at the end of the day.
-- 
+
 ### Visualizations
 
 The aggregate modules come with a dashboard called “**ITN Mass campaign (daily)**”  that contains the visualization outlined in the table below. If the frequency of data collection is not daily, the name of the dashboard should be adapted.
