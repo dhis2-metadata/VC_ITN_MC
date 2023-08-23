@@ -39,15 +39,11 @@ This program is designed to facilitate the **registration of individual househol
 | Registration | The stage collects information on the household (i.e. sleeping spaces, registered population and the number of nets allotted). |
 | Distribution | The stage collects information on the number of ITNs issued, the name of the person that received the net and the ITN brand.   |
 
-### Data elements
-
-The full list of data elements is available in the [Metadata Reference File](resources/reference/VC-ITN-MC-HH.xlsx).
-
 ## Tracker Details
 
 ### Enrollment
 
-[Enrollment](resources/images/VC_ITN_HH_001.png)
+![Enrollment](resources/images/VC_ITN_HH_001.png)
 
 The enrollment collects core information to identify the household, including its coordinates.
 
