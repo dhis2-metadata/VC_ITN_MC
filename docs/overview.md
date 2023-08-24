@@ -1,6 +1,6 @@
 # Vector Control using Insecticide Treated Net
 
-## Release note 
+## Release note
 
 - [Release note](#vc-mc-itn-release-note)
 
