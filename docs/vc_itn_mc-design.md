@@ -1,4 +1,4 @@
-# Insecticide Treated Nets (ITN) { #vc-mc-itn-design }
+# Insecticide Treated Nets (ITN) { #vc-itn-mc-design }
 
 **Insecticide-treated nets (ITNs)** have emerged as the most widely utilized and effective vector control (VC) intervention, contributing significantly to the substantial reduction in malaria cases across Africa in recent decades. These nets are specially designed to fulfill two crucial functions:
 
