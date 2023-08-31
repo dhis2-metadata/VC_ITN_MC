@@ -1,4 +1,4 @@
-# Release Note { #vc-mc-itn-release-note }
+# Release Note { #vc-itn-mc-release-note }
 
 ## 1.0.0
 
