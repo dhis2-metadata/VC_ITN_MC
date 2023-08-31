@@ -2,16 +2,16 @@
 
 ## Release note 
 
-- [Release note](#vc-mc-itn-release-note)
+- [Release note](#vc-itn-mc-release-note)
 
 ## Design
 
-- [Design](#vc-mc-itn-design)
+- [Design](#vc-itn-mc-design)
 
 ## Installation
 
-- [Installation guide](#vc-mc-itn-installation)
+- [Installation guide](#vc-itn-mc-installation)
 
 ## Metadata reference
 
-- [Version 1.0.0](https://packages.dhis2.org/en/VC_MC_ITN/1.0.0/DHIS2.38/.xlsx)
+- [Version 1.0.0](https://packages.dhis2.org/en/VC_ITN_MC/1.0.0/DHIS2.38/.xlsx)
