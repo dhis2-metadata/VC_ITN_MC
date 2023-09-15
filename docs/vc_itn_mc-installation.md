@@ -1,4 +1,4 @@
-# Vector Control using Insecticide Treated Net Installation Guide { #vc-itn-mc-installation }
+# Insecticide-treated Nets Mass Campaings - Installation Guide { #vc-itn-mc-installation }
 
 You will have to follow the instructions in full for each separate package that you install.
 
