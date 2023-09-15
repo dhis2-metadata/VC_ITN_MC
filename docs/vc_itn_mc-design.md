@@ -14,9 +14,9 @@ Distribution of ITNs typically occurs through two main approaches:
 
 By employing these distribution strategies, the goal is to maximize the accessibility and usage of ITNs, ultimately reducing malaria transmission and its associated burden.
 
-## ITN Mass distribution campaigns { #itn-masscampaigns }
+## ITN Mass distribution campaign { #itn-masscampaign }
 
-**ITN mass distribution campaigns (ITN-MC)** aim to provide widespread access to insecticide-treated nets (ITNs) for the entire population of a designated area. The primary objective is to ensure that every individual in the population has the opportunity to sleep under a net, thereby receiving protection against mosquito bites and reducing the risk of vector-borne diseases.
+**ITN mass distribution campaign (ITN-MC)** aims to provide widespread access to insecticide-treated nets (ITNs) for the entire population of a designated area. The primary objective is to ensure that every individual in the population has the opportunity to sleep under a net, thereby receiving protection against mosquito bites and reducing the risk of vector-borne diseases.
 
 To effectively capture data from ITN campaigns, users can decide to either collect the single distribution events and households, or to aggregate the information on the area and the distributed bednets.
 
