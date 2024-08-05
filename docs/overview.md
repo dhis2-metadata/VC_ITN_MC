@@ -14,4 +14,4 @@
 
 ## Metadata reference
 
-- [Version 1.0.0](https://packages.dhis2.org/en/VC_ITN/1.0.0/VC_ITN_MC_1.0.0_DHIS2.40.xlsx)
+- [Version 1.0.0](https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.40/VC_ITN_MC_1.0.0_DHIS2.40.xlsx)
